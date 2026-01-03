@@ -134,3 +134,6 @@ dist
 /.editorconfig
 /package-lock.json
 /1.jpg
+
+# IDE
+.idea
